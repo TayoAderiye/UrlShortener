@@ -1,6 +1,6 @@
 # URL SHORTENER
 
-> Url Shortener
+> Using node.js, mongodb and ejs to build a url shortener
 
 ## Usage
 ```
